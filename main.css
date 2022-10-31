@@ -124,6 +124,10 @@ body{
 	background: orange;
 	columns:#000;
 	padding: 40px 0;
+	background: rgb(10,10,10);
+color: orange;
+cursor:pointer;
+border:2px solid;
 }
 .menu-text-center{
 	width: 90%;
@@ -185,6 +189,10 @@ border:2px solid;
 	font-size: 40px;
 	border-radius: 5px;
 	transition: transform 2s ease,color 2s ease;
+	background: rgb(10,10,10);
+color: orange;
+cursor:pointer;
+border:2px solid;
 }
 #social-icons a:hover{
 	transform: translateY(-20px);
